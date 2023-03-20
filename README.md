@@ -4,7 +4,7 @@
 - 📫 How to reach me: 
 -       htt2110@columbia.edu
 -       +1 667-256-4669
--       www.harshitthakker.com
+
 
 <!---
 htt2110/htt2110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
